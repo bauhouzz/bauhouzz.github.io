@@ -1,0 +1,510 @@
+{
+  "projects": [
+    {
+      "slug": "nasledie",
+      "section": "projects",
+      "order": 0,
+      "title": "ЖК Наследие",
+      "subtitle": "Трёхкомнатная квартира, 105 м²",
+      "kind": "Квартира",
+      "year": "2023",
+      "intro": "Квартира для современной молодой семьи. Продумано размещение 3 спален, 2 санузлов, гардеробных и кухни-гостиной. Колорит натуральных пастельных тонов",
+      "cover": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/822359a5-accb-4d83-86a9-1986817f218a/822359a5-accb-4d83-86a9-1986817f218a-14231218.jpeg",
+      "groups": [
+        {
+          "caption": "Гостиная и прихожая",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/61eee1b7-d277-4bfc-9fff-a3ea48252fab/61eee1b7-d277-4bfc-9fff-a3ea48252fab-14224167.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/7463f16a-0233-4d10-9627-ac151921fbd0/7463f16a-0233-4d10-9627-ac151921fbd0-14224183.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/aa1e6b2d-6eee-49d0-bb90-1b79d6f9eab2/aa1e6b2d-6eee-49d0-bb90-1b79d6f9eab2-14224177.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/6d12553d-4383-4500-9145-c7c724564149/6d12553d-4383-4500-9145-c7c724564149-14224164.jpeg"
+          ]
+        },
+        {
+          "caption": "Гостевой санузел",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/c4f215ca-9de3-4469-9421-41e1efc9a78f/c4f215ca-9de3-4469-9421-41e1efc9a78f-14224185.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/23e87398-e986-4509-b587-9b6513aa053e/23e87398-e986-4509-b587-9b6513aa053e-14230304.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/63fe733e-8476-4a90-ba7b-d5438910be35/63fe733e-8476-4a90-ba7b-d5438910be35-14230308.jpeg"
+          ]
+        },
+        {
+          "caption": "Мастер- санузел",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/df47d666-0ffb-441d-bb18-bd4bceffb676/df47d666-0ffb-441d-bb18-bd4bceffb676-14224201.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/524ead26-fc10-4059-bad5-ce5d8df962ab/524ead26-fc10-4059-bad5-ce5d8df962ab-14224206.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/ab379231-f4b3-41f6-9178-bf6cbcb14034/ab379231-f4b3-41f6-9178-bf6cbcb14034-14224212.jpeg"
+          ]
+        },
+        {
+          "caption": "Мастер-спальня",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/90bd69c9-a1f1-44d4-9648-e1be7337ebe3/90bd69c9-a1f1-44d4-9648-e1be7337ebe3-14224220.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/16367f54-fed7-4a17-aed4-6a7e6375f563/16367f54-fed7-4a17-aed4-6a7e6375f563-14224222.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/991cdf23-e02a-4196-9bc3-39990c27c336/991cdf23-e02a-4196-9bc3-39990c27c336-14230317.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/6d8b4ebd-9516-4498-8b96-5b6782aad916/6d8b4ebd-9516-4498-8b96-5b6782aad916-14224226.jpeg"
+          ]
+        },
+        {
+          "caption": "Зеленая спальня для сына",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/80b68a19-67d3-450b-a65e-536ab8a1944b/80b68a19-67d3-450b-a65e-536ab8a1944b-14224227.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/a46513ac-73b3-449a-ba70-19d59e34593e/a46513ac-73b3-449a-ba70-19d59e34593e-14224229.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/c1725739-4f2a-400b-8a0c-56971c775a17/c1725739-4f2a-400b-8a0c-56971c775a17-14224230.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/07fbf3a1-94c2-49ea-b4df-b0c27236102a/07fbf3a1-94c2-49ea-b4df-b0c27236102a-14224231.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/17509f9e-1de7-49af-9aa6-728dabaa687c/17509f9e-1de7-49af-9aa6-728dabaa687c-14224233.jpeg"
+          ]
+        },
+        {
+          "caption": "Синяя спальня для сына",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/55640285-7477-4cf6-8439-e441e603fc58/55640285-7477-4cf6-8439-e441e603fc58-14224252.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/2fa87fe9-2121-463b-85eb-bc28180dc262/2fa87fe9-2121-463b-85eb-bc28180dc262-14224242.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/b7ee7128-aa4f-40e8-9d34-404b67b4f710/b7ee7128-aa4f-40e8-9d34-404b67b4f710-14224243.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/f2dd0e0b-62ef-4814-88de-f566bdef8fdc/f2dd0e0b-62ef-4814-88de-f566bdef8fdc-14224246.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/598bfae7-3cce-4ff8-8369-4828c3b43144/598bfae7-3cce-4ff8-8369-4828c3b43144-14224251.jpeg"
+          ]
+        },
+        {
+          "caption": "Чертежи",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/1cfb9e6c-492c-4e52-af22-a50393b2a6b7/1cfb9e6c-492c-4e52-af22-a50393b2a6b7-14224287.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/3623c109-39ea-470c-8014-b269e254335c/3623c109-39ea-470c-8014-b269e254335c-14224257.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/a0d8f7d9-7fb7-4dc4-9f89-26d27d6ec5b1/a0d8f7d9-7fb7-4dc4-9f89-26d27d6ec5b1-14224260.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/a181a7f7-72df-44a0-9291-c8c803dd6e89/a181a7f7-72df-44a0-9291-c8c803dd6e89-14224262.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/b74763ac-dc7b-4939-a960-12d7694b7ef1/b74763ac-dc7b-4939-a960-12d7694b7ef1-14224265.jpeg"
+          ]
+        },
+        {
+          "caption": "",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/55693390-4145-45e3-909c-7fdb2ac44f33/55693390-4145-45e3-909c-7fdb2ac44f33-14239493.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/701dc757-e3e4-4b7b-8664-bf02e4f97ddb/701dc757-e3e4-4b7b-8664-bf02e4f97ddb-14239580.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/63f5fe57-6304-4aa8-9a93-7d2dcf421e4c/63f5fe57-6304-4aa8-9a93-7d2dcf421e4c-14239579.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/c31241ff-120e-4179-96e5-92b0a7410b1d/c31241ff-120e-4179-96e5-92b0a7410b1d-14239634.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/720ec6ba-6833-4122-9e66-5a2ba5224191/720ec6ba-6833-4122-9e66-5a2ba5224191-14239660.jpeg"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "english",
+      "section": "projects",
+      "order": 1,
+      "title": "Английский дом",
+      "subtitle": "Коттедж с тремя спальнями",
+      "kind": "Дом",
+      "year": "2023",
+      "intro": "Двухэтажный коттедж в английском стиле. Дизайн дома осуществил мечты заказчицы, любящей путешествовать по Европе. Для разных помещений разработана своя цветовая гамма, в декоре и текстиле использованы рисунки Уильяма Морриса.",
+      "cover": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/4f95aa78-313f-4c97-bcb6-cbdf6a0a3ee2/4f95aa78-313f-4c97-bcb6-cbdf6a0a3ee2-11722478.png",
+      "groups": [
+        {
+          "caption": "Гостиная в оливковых тонах",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/72f419c6-48a1-4c84-9c69-4d58d818e636/72f419c6-48a1-4c84-9c69-4d58d818e636-14262976.png",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/9f109f45-21ed-4538-ac24-002aa48c690d/9f109f45-21ed-4538-ac24-002aa48c690d-14263186.png",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/067479c8-222d-4857-83c2-b589763b62b9/067479c8-222d-4857-83c2-b589763b62b9-14262984.png",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/6572e60c-71e2-4425-ba54-32ee7d10e81e/6572e60c-71e2-4425-ba54-32ee7d10e81e-14262977.png"
+          ]
+        },
+        {
+          "caption": "Гостевой санузел",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/679118f7-4b56-4a09-9291-86b317e54742/679118f7-4b56-4a09-9291-86b317e54742-14262994.png",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/daa64f6d-b8d4-4c06-9c85-5b467310c082/daa64f6d-b8d4-4c06-9c85-5b467310c082-14263001.png",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/e81c13ac-49c3-4be6-ba63-586f39507e8d/e81c13ac-49c3-4be6-ba63-586f39507e8d-14263213.jpeg"
+          ]
+        },
+        {
+          "caption": "Мастер-санузел",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/26e0eb04-1ef7-4e94-870a-669a12d38c34/26e0eb04-1ef7-4e94-870a-669a12d38c34-14263019.png",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/60f3c28b-187f-425a-b661-c2137410301e/60f3c28b-187f-425a-b661-c2137410301e-14263033.png",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/bfe1bb25-9b80-409d-907a-83fdc1aea568/bfe1bb25-9b80-409d-907a-83fdc1aea568-14263034.png",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/4798e539-7d5b-40da-8ddc-62688b0d8f45/4798e539-7d5b-40da-8ddc-62688b0d8f45-14263041.png",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/8e646d9e-dd09-4727-9bf2-b8da06dc0001/8e646d9e-dd09-4727-9bf2-b8da06dc0001-14263052.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/a6e843af-db42-44af-8bcb-44e9ec525df4/a6e843af-db42-44af-8bcb-44e9ec525df4-14263073.jpeg"
+          ]
+        },
+        {
+          "caption": "Мастер-спальня",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/bac66d29-548d-4711-8b91-13376246aea5/bac66d29-548d-4711-8b91-13376246aea5-14263281.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/a1593c8d-d3e8-43c3-8eeb-1fab2ced751d/a1593c8d-d3e8-43c3-8eeb-1fab2ced751d-14263293.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/93bf5c4a-b759-469b-9228-201dd728ca39/93bf5c4a-b759-469b-9228-201dd728ca39-14263301.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/532c088f-f733-4d1d-92c0-5407d4fee5c1/532c088f-f733-4d1d-92c0-5407d4fee5c1-14263317.jpeg"
+          ]
+        },
+        {
+          "caption": "Спальня родителей",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/9edfaca9-1e2d-4915-a296-6796c2fa32cc/9edfaca9-1e2d-4915-a296-6796c2fa32cc-14263106.png",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/e9191faa-ef99-4c36-a39c-b567d6e09f38/e9191faa-ef99-4c36-a39c-b567d6e09f38-14263109.png"
+          ]
+        },
+        {
+          "caption": "Фрагменты чертежей",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/a2d812fd-a93d-43e4-92ce-5c22b0974625/a2d812fd-a93d-43e4-92ce-5c22b0974625-14263211.png",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/d6d67804-4c51-41c3-a412-2865a051c369/d6d67804-4c51-41c3-a412-2865a051c369-14263129.png",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/eb0afa9a-1338-443b-b96d-5b48dd0328b2/eb0afa9a-1338-443b-b96d-5b48dd0328b2-14263212.png",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/18a3858e-81bc-4358-8036-c299567d90aa/18a3858e-81bc-4358-8036-c299567d90aa-14263133.png"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "kislovski",
+      "section": "projects",
+      "order": 2,
+      "title": "Kislovski",
+      "subtitle": "Трёхкомнатная квартира, 145 м²",
+      "kind": "Квартира",
+      "year": "2022",
+      "intro": "Квартира \"сталинка\" с видами из окон на старую Москву и прекрасными высокими потолками 3.5 м. Концептуально выдержана в монохромной гамме для сдержанности и для акцента на люксовых отделочных материалах.",
+      "cover": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/3c03c376-e345-427a-bb61-9103b70dd64f/3c03c376-e345-427a-bb61-9103b70dd64f-14229767.jpeg",
+      "groups": [
+        {
+          "caption": "",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/38197788-7ce4-4548-bdc3-f85cafe93f84/38197788-7ce4-4548-bdc3-f85cafe93f84-14231015.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/47ad9e7e-f45b-49d5-b064-f6fd0564d905/47ad9e7e-f45b-49d5-b064-f6fd0564d905-14231112.png",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/f22eaa1d-badf-4be8-9a76-a922d10e6b3d/f22eaa1d-badf-4be8-9a76-a922d10e6b3d-14239384.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/5a176ada-3cd7-4612-893f-d95a268fed40/5a176ada-3cd7-4612-893f-d95a268fed40-14231109.jpeg"
+          ]
+        },
+        {
+          "caption": "",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/481b9355-9b69-41f9-8d64-5672e8c7117d/481b9355-9b69-41f9-8d64-5672e8c7117d-14231041.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/9eea6e79-5dc2-46cc-af10-3de5acb93eaf/9eea6e79-5dc2-46cc-af10-3de5acb93eaf-14231040.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/9a78a713-b258-492a-9318-a04e3e1bdf26/9a78a713-b258-492a-9318-a04e3e1bdf26-14231047.jpeg"
+          ]
+        },
+        {
+          "caption": "",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/87d6b25f-52f0-4c95-96b4-80e670d22e32/87d6b25f-52f0-4c95-96b4-80e670d22e32-14231018.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/795b0bb9-c84c-4f6e-ba5f-6998e3c4936e/795b0bb9-c84c-4f6e-ba5f-6998e3c4936e-14231021.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/8f7747c3-c992-494d-a1da-f395181b1ecd/8f7747c3-c992-494d-a1da-f395181b1ecd-14231126.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/9553890d-b7fe-4ed8-abbf-6f64e4d9c261/9553890d-b7fe-4ed8-abbf-6f64e4d9c261-14257928.jpeg"
+          ]
+        },
+        {
+          "caption": "",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/c8a09408-7d58-46b3-a40b-01e9010f2dd0/c8a09408-7d58-46b3-a40b-01e9010f2dd0-14231051.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/b43b0fed-b20a-42a7-acf5-43b68dc7b27b/b43b0fed-b20a-42a7-acf5-43b68dc7b27b-14231052.jpeg"
+          ]
+        },
+        {
+          "caption": "",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/8c495dbe-c40c-48e7-a5b8-b2069f979f57/8c495dbe-c40c-48e7-a5b8-b2069f979f57-14231145.jpeg"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "red",
+      "section": "projects",
+      "order": 3,
+      "title": "Квартира Дзержинский",
+      "subtitle": "Трёхкомнатная квартира, 90 м²",
+      "kind": "Квартира",
+      "year": "2022",
+      "intro": "Квартира для семьи из трех человек. Маленький метраж помещений использован максимально: в мебель встроен камин, продумана вместительная гардеробная, размещен большой холодильник и создано много рабочего пространства для хозяйки на кухне, спроектированы спальни для всех членов семьи.",
+      "cover": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/05f597cf-ba7d-417a-a318-605760cbe198/05f597cf-ba7d-417a-a318-605760cbe198-14282906.jpeg",
+      "groups": [
+        {
+          "caption": "",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/cd6caf39-befb-4316-878d-6e9f0e8bdb5c/cd6caf39-befb-4316-878d-6e9f0e8bdb5c-14279190.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/251569ff-1c57-4a52-9b6a-157f66f99964/251569ff-1c57-4a52-9b6a-157f66f99964-14279191.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/9f5d61e6-428a-4974-be9a-cc096775e0b1/9f5d61e6-428a-4974-be9a-cc096775e0b1-14279240.png"
+          ]
+        },
+        {
+          "caption": "",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/42fd3ce9-f55e-42fa-8783-62a4c30bc6b7/42fd3ce9-f55e-42fa-8783-62a4c30bc6b7-14279085.png",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/58d615a3-c0da-4b4f-8d25-5ed7483ef3b9/58d615a3-c0da-4b4f-8d25-5ed7483ef3b9-14279097.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/01bd876b-159d-4d8e-9104-7b1886bbade8/01bd876b-159d-4d8e-9104-7b1886bbade8-14279205.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/6c84becc-7be4-4d28-8c6e-da9fd9a6a053/6c84becc-7be4-4d28-8c6e-da9fd9a6a053-14279235.jpeg"
+          ]
+        },
+        {
+          "caption": "",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/c009f984-1333-459b-9af7-66364dd7f2cf/c009f984-1333-459b-9af7-66364dd7f2cf-14281441.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/3a192072-2519-4335-b81a-0636f1fb43ec/3a192072-2519-4335-b81a-0636f1fb43ec-14281505.jpeg"
+          ]
+        },
+        {
+          "caption": "",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/4c5ad8a1-7348-48af-b238-a4a69d0d40fa/4c5ad8a1-7348-48af-b238-a4a69d0d40fa-14279243.png",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/8883a9ec-2e9c-4360-8d46-5f2a8bb0c4e0/8883a9ec-2e9c-4360-8d46-5f2a8bb0c4e0-14279242.png"
+          ]
+        },
+        {
+          "caption": "",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/be1a5b82-b45b-467a-a4d8-a0903fa3430e/be1a5b82-b45b-467a-a4d8-a0903fa3430e-14279193.png",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/a2e14154-8752-4cb1-b6dc-3f47b03fffae/a2e14154-8752-4cb1-b6dc-3f47b03fffae-14279195.png",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/3f918d48-038c-4124-bf51-bf474de45670/3f918d48-038c-4124-bf51-bf474de45670-14279198.png"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "janna",
+      "section": "projects",
+      "order": 4,
+      "title": "Квартира «Жанна»",
+      "subtitle": "45 м² для молодой девушки",
+      "kind": "Квартира",
+      "year": "2021",
+      "intro": "В квартире спроектирована зона гостиной, удобная кухня, рабочее месту, санузел с зоной стирки и спальня с гардеробом.Дизайн решен в спокойных тонах и в сложной цветовой гамме.",
+      "cover": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/00eda3ae-2eb0-4bc3-a364-d15141f06816/00eda3ae-2eb0-4bc3-a364-d15141f06816-14278596.jpeg",
+      "groups": [
+        {
+          "caption": "",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/6f3b05c7-7d16-441a-a212-eb2b1d98c8fd/6f3b05c7-7d16-441a-a212-eb2b1d98c8fd-12391305.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/de441ff5-bc2f-4497-b323-48035e5411c4/de441ff5-bc2f-4497-b323-48035e5411c4-12391328.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/0bf6918d-578a-4eb0-8084-7cdb1c8271db/0bf6918d-578a-4eb0-8084-7cdb1c8271db-14229794.jpeg"
+          ]
+        },
+        {
+          "caption": "",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/a0b36e8b-3a3a-4167-aea1-5ec9cb4a1f34/a0b36e8b-3a3a-4167-aea1-5ec9cb4a1f34-12391166.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/6ba20ab7-0c85-4e7c-886c-94559b081a36/6ba20ab7-0c85-4e7c-886c-94559b081a36-12391191.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/87b2c9a7-0c6e-4bea-963c-f992542d8368/87b2c9a7-0c6e-4bea-963c-f992542d8368-12390130.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/1a0d2001-aabf-4bba-98c6-f70cc3313642/1a0d2001-aabf-4bba-98c6-f70cc3313642-12390740.jpeg"
+          ]
+        },
+        {
+          "caption": "",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/72f1c999-c8fd-4e48-9a0e-f0bc1cc11bb2/72f1c999-c8fd-4e48-9a0e-f0bc1cc11bb2-14290426.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/594840ee-afc1-422f-bef1-6e0cd2258378/594840ee-afc1-422f-bef1-6e0cd2258378-14290444.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/38004401-a800-4f53-8990-8d13cab94b62/38004401-a800-4f53-8990-8d13cab94b62-14290436.jpeg"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "eremreevo",
+      "section": "projects",
+      "order": 5,
+      "title": "Еремеево Лайф",
+      "subtitle": "Коттедж, 245 м²",
+      "kind": "Дом",
+      "year": "2023",
+      "intro": "Проект дизайна фахверкового дома включает чертежи для отделочных работ, планы электрики, сантехники, теплого пола, розеток и выключателей, расстановки освещения.Подробные 3 д виды позволили реализовать проект без визуализаций.",
+      "cover": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/0f803e16-ffd1-4700-8408-ebe2ca4a51ae/0f803e16-ffd1-4700-8408-ebe2ca4a51ae-14282912.jpeg",
+      "groups": [
+        {
+          "caption": "",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/76efd97b-4889-4719-a804-36d50db836d5/76efd97b-4889-4719-a804-36d50db836d5-14258367.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/3f98a597-d560-4abd-a53f-634aa0887c71/3f98a597-d560-4abd-a53f-634aa0887c71-14258388.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/a4b38108-b0ab-4057-9478-341c26673c5f/a4b38108-b0ab-4057-9478-341c26673c5f-14258372.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/89d581b0-2b0c-4a89-bd70-0c3f3a988b2a/89d581b0-2b0c-4a89-bd70-0c3f3a988b2a-14258394.jpeg"
+          ]
+        },
+        {
+          "caption": "",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/aecd6c25-624b-4162-a780-ea912d5e8398/aecd6c25-624b-4162-a780-ea912d5e8398-14258401.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/91793707-a5d6-45a4-b9cc-637e514947df/91793707-a5d6-45a4-b9cc-637e514947df-14258383.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/57bce729-981c-43e3-a9fc-0cb76c9d91fb/57bce729-981c-43e3-a9fc-0cb76c9d91fb-14258403.jpeg"
+          ]
+        },
+        {
+          "caption": "",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/c4999512-ad14-4752-ae06-5b472afb053c/c4999512-ad14-4752-ae06-5b472afb053c-14258451.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/96a37ae3-43d3-4256-9a21-66c302be26bf/96a37ae3-43d3-4256-9a21-66c302be26bf-14258923.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/b6e135e0-d668-446a-aead-a686492a78e2/b6e135e0-d668-446a-aead-a686492a78e2-14258926.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/5f7be80a-a8ca-4a94-91ea-206405da236a/5f7be80a-a8ca-4a94-91ea-206405da236a-14258937.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/fc9cfff8-b968-4e49-a9d4-b55011bb414d/fc9cfff8-b968-4e49-a9d4-b55011bb414d-14258941.jpeg"
+          ]
+        },
+        {
+          "caption": "",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/f87a5f61-7212-4de4-86e9-ed5f04190f78/f87a5f61-7212-4de4-86e9-ed5f04190f78-14258976.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/89559ea1-e4b8-4fb6-a20d-b3792a43ad74/89559ea1-e4b8-4fb6-a20d-b3792a43ad74-14258990.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/d66ab357-18f4-4064-8774-2fb251cbc8c3/d66ab357-18f4-4064-8774-2fb251cbc8c3-14263394.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/562fc994-4658-4deb-9a7e-03a3b4f8fbb8/562fc994-4658-4deb-9a7e-03a3b4f8fbb8-14259012.jpeg"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "modern",
+      "section": "projects",
+      "order": 6,
+      "title": "ЖК Южный",
+      "subtitle": "Трёхкомнатная квартира, 75 м²",
+      "kind": "Квартира",
+      "year": "2021",
+      "intro": "Реконструкция и создание индивидуальной мебели.Проект включает коллажи, 3 д виды и подробные чертежи.",
+      "cover": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/6d246548-1a4b-48d8-a56c-3a139692f95c/6d246548-1a4b-48d8-a56c-3a139692f95c-14283086.jpeg",
+      "groups": [
+        {
+          "caption": "",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/b3a2cf50-6e4f-4ffe-b5fd-84b65a04e246/b3a2cf50-6e4f-4ffe-b5fd-84b65a04e246-14283019.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/bbf0cab2-14fd-4021-9ce4-75aa03d3631c/bbf0cab2-14fd-4021-9ce4-75aa03d3631c-14283022.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/d1163088-beba-430a-b90e-996971e5460c/d1163088-beba-430a-b90e-996971e5460c-14286380.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/6acd63f5-e75b-4401-9be9-19998a4fb517/6acd63f5-e75b-4401-9be9-19998a4fb517-14286266.jpeg"
+          ]
+        },
+        {
+          "caption": "",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/507d1325-5f60-4edc-910d-e71eabfc72f9/507d1325-5f60-4edc-910d-e71eabfc72f9-14286271.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/9c3392d9-7d74-46a6-9ed5-3bea83b49dbf/9c3392d9-7d74-46a6-9ed5-3bea83b49dbf-14286283.jpeg"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "green",
+      "section": "projects",
+      "order": 7,
+      "title": "ЖК Синяя Птица",
+      "subtitle": "Двухкомнатная квартира, 68 м²",
+      "kind": "Квартира",
+      "year": "2020",
+      "intro": "Заказчица мечтала о современной классике. Проект создавался в сжатые сроки, подробные проработаные коллажи и 3 д виды позволили разработать проект без визуализации",
+      "cover": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/1a6f92d1-b4e6-41a7-a4d7-ef4baf5c4d3d/1a6f92d1-b4e6-41a7-a4d7-ef4baf5c4d3d-14287338.jpeg",
+      "groups": [
+        {
+          "caption": "",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/13b526b3-5f99-48ac-b28d-e5bf6cac9775/13b526b3-5f99-48ac-b28d-e5bf6cac9775-14286905.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/d8a3cf76-d63a-42c3-a227-8ef9ed6b42da/d8a3cf76-d63a-42c3-a227-8ef9ed6b42da-14286961.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/f8eddc66-030d-40cd-8476-5032fbc0466c/f8eddc66-030d-40cd-8476-5032fbc0466c-14287001.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/ccf92673-7cac-41c2-8934-942102b845f5/ccf92673-7cac-41c2-8934-942102b845f5-14286931.jpeg"
+          ]
+        },
+        {
+          "caption": "",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/24a1b540-bba4-4713-8345-15548588f5d9/24a1b540-bba4-4713-8345-15548588f5d9-14287022.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/cff830fe-9fed-4aad-8488-dda84f3401bf/cff830fe-9fed-4aad-8488-dda84f3401bf-14287083.jpeg"
+          ]
+        },
+        {
+          "caption": "",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/2d07ea6d-d006-4226-8935-957333124b25/2d07ea6d-d006-4226-8935-957333124b25-14290457.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/159c6ed5-01c6-4fc6-9bf1-916b6f275b29/159c6ed5-01c6-4fc6-9bf1-916b6f275b29-14290455.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/e6561879-8476-4a9a-8ae9-de3261f9c906/e6561879-8476-4a9a-8ae9-de3261f9c906-14287258.jpeg"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "scool",
+      "section": "projects",
+      "order": 8,
+      "title": "Московская школа 1534",
+      "subtitle": "Реконструкция пространства школы",
+      "kind": "Общественное",
+      "year": "2020",
+      "intro": "Работа выполнена в стенах Британской школы дизайна совместно с С. Пеца. Спроектировано современное и комфортное пространство для учащихся, акцент на индивидуальный подход и новации. Эстетически и эргономично продуманы входные зоны и гардероб. Создано комфортное решение для отдыха во время перемен в холлах и рикреациях. Продумана библиотека как многофункциональное пространство. Предложены актуальные идеи для организации питания и занятий спортом.",
+      "cover": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/f1550766-3e80-43fe-9b00-fcf77eda88b6/f1550766-3e80-43fe-9b00-fcf77eda88b6-14318074.png",
+      "groups": [
+        {
+          "caption": "",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/b8369a80-43eb-4bb7-a751-94ad578e1559/b8369a80-43eb-4bb7-a751-94ad578e1559-14317866.png",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/843ccdad-8cd3-4789-a8a3-61894d06417d/843ccdad-8cd3-4789-a8a3-61894d06417d-14317869.png",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/b5b5218e-3822-4fb1-99b9-69804f85cb28/b5b5218e-3822-4fb1-99b9-69804f85cb28-14317870.png"
+          ]
+        }
+      ]
+    }
+  ],
+  "art": [
+    {
+      "slug": "art",
+      "section": "art",
+      "order": 0,
+      "title": "Pop-up для Fantini",
+      "subtitle": "Конкурсная работа для издания «Интерьер + Дизайн»",
+      "year": "2021",
+      "intro": "",
+      "cover": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/a8538b1b-3511-45d0-b74f-f27a40a9a15c/a8538b1b-3511-45d0-b74f-f27a40a9a15c-12386935.jpeg",
+      "groups": [
+        {
+          "caption": "",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/0499c991-82ce-4cdb-a5c0-649ef98e9f70/0499c991-82ce-4cdb-a5c0-649ef98e9f70-14318100.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/74ded0c2-8c90-4d60-8a44-73b6375692b4/74ded0c2-8c90-4d60-8a44-73b6375692b4-14194339.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/74ded0c2-8c90-4d60-8a44-73b6375692b4/74ded0c2-8c90-4d60-8a44-73b6375692b4-14194338.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/74ded0c2-8c90-4d60-8a44-73b6375692b4/74ded0c2-8c90-4d60-8a44-73b6375692b4-14194337.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/74ded0c2-8c90-4d60-8a44-73b6375692b4/74ded0c2-8c90-4d60-8a44-73b6375692b4-14194340.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/abe780dd-6d97-4e85-8a73-5ce4db8b5d0b/abe780dd-6d97-4e85-8a73-5ce4db8b5d0b-14318113.jpeg"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "hotel",
+      "section": "art",
+      "order": 1,
+      "title": "Концепт отеля RED",
+      "subtitle": "Бутик-отель в Калининграде",
+      "year": "2021",
+      "intro": "",
+      "cover": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/c8682129-781e-4900-9672-f0cf9e9baa81/c8682129-781e-4900-9672-f0cf9e9baa81-11806477.jpeg",
+      "groups": [
+        {
+          "caption": "",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/1efcc016-1523-49a1-b626-18c4357dca45/1efcc016-1523-49a1-b626-18c4357dca45-14318277.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/74ded0c2-8c90-4d60-8a44-73b6375692b4/74ded0c2-8c90-4d60-8a44-73b6375692b4-14194339.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/74ded0c2-8c90-4d60-8a44-73b6375692b4/74ded0c2-8c90-4d60-8a44-73b6375692b4-14194338.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/74ded0c2-8c90-4d60-8a44-73b6375692b4/74ded0c2-8c90-4d60-8a44-73b6375692b4-14194337.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/74ded0c2-8c90-4d60-8a44-73b6375692b4/74ded0c2-8c90-4d60-8a44-73b6375692b4-14194340.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/353395e0-5777-459c-93aa-f26dae9352b9/353395e0-5777-459c-93aa-f26dae9352b9-14318279.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/1cc10a9d-19b4-4ad9-8be7-308204ff9f0c/1cc10a9d-19b4-4ad9-8be7-308204ff9f0c-14318292.jpeg"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "hart",
+      "section": "art",
+      "order": 2,
+      "title": "Лампа Hart",
+      "subtitle": "Конкурс «Сделано и придумано в России»",
+      "year": "2022",
+      "intro": "",
+      "cover": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/39a4c679-7787-48a7-82d4-1415bf079301/39a4c679-7787-48a7-82d4-1415bf079301-11806262.jpeg",
+      "groups": [
+        {
+          "caption": "",
+          "images": [
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/c289278a-4066-4f91-94cd-81f7674e5efb/c289278a-4066-4f91-94cd-81f7674e5efb-14318255.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/74ded0c2-8c90-4d60-8a44-73b6375692b4/74ded0c2-8c90-4d60-8a44-73b6375692b4-14194339.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/74ded0c2-8c90-4d60-8a44-73b6375692b4/74ded0c2-8c90-4d60-8a44-73b6375692b4-14194338.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/74ded0c2-8c90-4d60-8a44-73b6375692b4/74ded0c2-8c90-4d60-8a44-73b6375692b4-14194337.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/74ded0c2-8c90-4d60-8a44-73b6375692b4/74ded0c2-8c90-4d60-8a44-73b6375692b4-14194340.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/299d3ae1-7762-4658-b21c-e5a5f8ce8d1f/299d3ae1-7762-4658-b21c-e5a5f8ce8d1f-14318208.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/1bbc785e-f6de-4d4e-a115-63535d9fd6be/1bbc785e-f6de-4d4e-a115-63535d9fd6be-14318266.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/55388b1a-b1d4-49bc-ae85-de455e0f1824/55388b1a-b1d4-49bc-ae85-de455e0f1824-14318232.jpeg",
+            "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site988681/f33b4088-ae16-4965-9661-715325359686/f33b4088-ae16-4965-9661-715325359686-14318233.jpeg"
+          ]
+        }
+      ]
+    }
+  ]
+}
