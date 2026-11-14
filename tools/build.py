@@ -31,6 +31,10 @@ MAX_SIDE = 1800
 QUALITY = 86
 MIN_WIDTH = 600
 
+# Префикс пути. Пусто для корня (user.github.io, org.github.io, свой домен),
+# "/bauhouzz" — если сайт живёт как проект: https://user.github.io/bauhouzz/
+BASE = os.environ.get("SITE_BASE", "").rstrip("/")
+
 SITE = json.load(open(os.path.join(CONTENT, "site.json"), encoding="utf-8"))
 DATA = json.load(open(os.path.join(CONTENT, "projects.json"), encoding="utf-8"))
 
@@ -601,7 +605,7 @@ def build_404():
     <a class="btn btn--solid" href="/index.html">На главную</a>
   </div>
 </main>"""
-    return page("Страница не найдена — %s" % SITE["name"], "404", "/", body)
+    return page("Страница не найдена — %s" % SITE["name"], "404", (BASE or "") + "/", body)
 
 
 def favicon():

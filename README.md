@@ -71,16 +71,30 @@ python3 -m http.server 8000
 
 и открыть `http://localhost:8000`.
 
+## Варианты размещения на GitHub Pages
+
+| Что | Репозиторий | Адрес |
+|---|---|---|
+| проект в личном аккаунте | `andrew/bauhouzz` | `https://andrew.github.io/bauhouzz/` |
+| проект в организации | `bauhouzz/bauhouzz` | `https://bauhouzz.github.io/bauhouzz/` |
+| корневой сайт организации | `bauhouzz/bauhouzz.github.io` | `https://bauhouzz.github.io/` |
+| свой домен (любой из вариантов) | — | `https://bauhouzz.ru/` |
+
+Корневой сайт удобнее: ссылки вида `/assets/...` и `/projects/...` работают
+без префикса, а при переезде на домен ничего не меняется.
+
 ## Публикация на GitHub Pages
 
 Одной командой:
 
 ```bash
-./deploy.sh bauhouzz
+./deploy.sh                          # bauhouzz в личном аккаунте
+./deploy.sh bauhouzz/bauhouzz.github.io   # корневой сайт организации
 ```
 
 Скрипт при необходимости попросит авторизоваться в GitHub, создаст публичный
-репозиторий `bauhouzz` от вашего имени, отправит туда файлы и включит Pages.
+репозиторий, соберёт страницы с нужным префиксом пути, отправит файлы и
+включит Pages.
 
 Дальше — вручную, если нужно:
 
