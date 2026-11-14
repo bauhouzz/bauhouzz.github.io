@@ -518,7 +518,7 @@ p:last-child { margin-bottom: 0; }
 
 .price__num { font-size: 11px; letter-spacing: .18em; color: var(--accent); }
 .price h3 { font-size: clamp(21px, 1.9vw, 26px); margin: 14px 0 8px; }
-.price__text { font-size: 14px; color: var(--muted); margin-bottom: 18px; min-height: 5.2em; }
+.price__text { font-size: 14px; color: var(--muted); margin-bottom: 18px; min-height: 6.6em; }
 
 .price__sum {
   font-family: var(--font-display);
