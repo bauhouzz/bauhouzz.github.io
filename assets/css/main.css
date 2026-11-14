@@ -303,7 +303,7 @@ p:last-child { margin-bottom: 0; }
   color: var(--muted);
   letter-spacing: .01em;
   max-width: 40ch;
-  line-height: 1.55;
+  line-height: 1.75;
 }
 
 .hero__media {
