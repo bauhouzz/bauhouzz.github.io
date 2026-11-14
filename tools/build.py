@@ -75,11 +75,24 @@ def prepare(slug, url, num):
         return None
 
 
+def usable(url):
+    """Отсекает иконки и превью для соцсетей — по фактическому размеру файла."""
+    src = raw_path(url)
+    if not os.path.exists(src):
+        return False
+    try:
+        with Image.open(src) as im:
+            return im.width >= MIN_WIDTH and (im.width, im.height) != (1200, 630)
+    except Exception:  # noqa: BLE001
+        return False
+
+
 def build_item(item):
     """Готовит изображения проекта, возвращает структуру с локальными путями."""
     slug = item["slug"]
     cover = None
     groups = []
+    used = set()
     n = 1
     for g in item.get("groups", []):
         shots = []
@@ -87,12 +100,25 @@ def build_item(item):
             r = prepare(slug, url, n)
             if not r:
                 continue
+            used.add(url)
             n += 1
             shots.append(r)
             if cover is None:
                 cover = r
         if shots:
             groups.append({"caption": g.get("caption", ""), "shots": shots})
+
+    # изображения вне блоков «gallery» (слайдеры, карусели) — отдельной группой
+    rest = [u for u in item.get("all_images", []) if u not in used and usable(u)]
+    if rest:
+        shots = []
+        for url in rest:
+            r = prepare(slug, url, n)
+            if r:
+                n += 1
+                shots.append(r)
+        if shots:
+            groups.append({"caption": "", "shots": shots})
 
     # обложка: отдельная картинка из карточки, если она есть
     if item.get("cover"):
