@@ -148,7 +148,7 @@ def nav(root, active=""):
     return """
 <header class="nav">
   <div class="nav__inner">
-    <a class="brand" href="%(root)sindex.html">Ольга Баурина <small>дизайн интерьера</small></a>
+    <a class="brand" href="%(root)sindex.html">Ольга Баурина</a>
     <button class="nav__burger" aria-label="Меню" aria-expanded="false"><span></span></button>
     <nav class="nav__links">%(links)s</nav>
   </div>
@@ -239,10 +239,27 @@ def build_index(prepared_all):
     art = [x for x in DATA["art"]]
     cov = prepared_all[projects[0]["slug"]]["cover"]
 
+    person = SITE["hero"].get("person") or {}
+    person_html = ""
+    if person.get("name"):
+        photo = ""
+        if person.get("photo"):
+            photo = ('<img class="person__photo" src="%s%s" alt="%s" width="96" height="96">'
+                     % ("", e(person["photo"]), e(person["name"])))
+        person_html = """
+      <div class="person">
+        %s
+        <div class="person__text">
+          <div class="person__role">%s</div>
+          <div class="person__name">%s</div>
+        </div>
+      </div>""" % (photo, e(person.get("role", "")), e(person["name"]))
+
     hero = """
 <section class="hero">
   <div class="wrap hero__grid">
     <div>
+      %(person)s
       <div class="eyebrow hero__eyebrow">%(eyebrow)s</div>
       <h1>%(heading)s</h1>
       <p class="lead hero__lead">%(lead)s</p>
@@ -258,6 +275,7 @@ def build_index(prepared_all):
     </figure>
   </div>
 </section>""" % {
+        "person": person_html,
         "eyebrow": e(SITE["hero"]["eyebrow"]),
         "heading": e(SITE["hero"]["heading"]),
         "lead": e(SITE["hero"]["lead"]),
